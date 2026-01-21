@@ -10,3 +10,4 @@
     * Slow and Fast pointer Approach
     * Matrix based problems
     * Heap based problems
+    * Bit Manipulation
